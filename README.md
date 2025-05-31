@@ -15,7 +15,7 @@ This project demonstrates a complete machine learning pipeline for detecting fra
    ```
 2. **Download the dataset:**
    - Get `creditcard.csv` from [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-   - Place it in the `data/` folder.
+   - Place it in the `data/` folder. (The data folder exceeds the size limit for upload so its not there, you have to create one folder named 'data' and in that you have to upload credit card detection csv file from kaggle)
 3. **Run the notebook:**
    - Open `notebooks/credit_card_fraud_detection.ipynb` in Jupyter or VS Code.
    - The notebook uses a 10% random sample of the data for faster development and demonstration. For final results, remove or adjust the sampling line.
